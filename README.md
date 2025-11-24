@@ -1,12 +1,11 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Jenifer Maria Joseph</h1>
-<h3 align="center">A challenger of norms(sometimes i curve)</h3>
+<h3 align="center">A challenger of norms</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jenifermariajoseph&label=Profile%20views&color=0e75b6&style=flat" alt="jenifermariajoseph" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jenifermariajoseph" alt="jenifermariajoseph" /></a> </p>
 
-- 🔭 I’m currently working on [Diet_Friday](https://github.com/jenifermariajoseph/Diet_Friday)
 
 - 🌱 I’m currently learning **React frameworks that make my brain itch, Online courses that make me question my life choices**
 
